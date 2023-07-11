@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "715216434307",
+    "project_id": "chera-mobile",
+    "storage_bucket": "chera-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715216434307:android:aa32ddb6ac83330973d7b6",
+        "android_client_info": {
+          "package_name": "com.mycompany.cherafooddiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715216434307-g0ej607u27avfms878nvt2kn8l6av8mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.cherafooddiary",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "715216434307-opj6pqlp444h63b0ftrd0tvjlmne7m4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXgfWKuMmCmKeW7u2X8r7O55FBFuVYoZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715216434307-opj6pqlp444h63b0ftrd0tvjlmne7m4u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715216434307-ijm9l5f76b3jismifmij9niqd2a7rmi0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.cherafooddiary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

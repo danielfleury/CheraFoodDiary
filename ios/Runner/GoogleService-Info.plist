@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>715216434307-ijm9l5f76b3jismifmij9niqd2a7rmi0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.715216434307-ijm9l5f76b3jismifmij9niqd2a7rmi0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>715216434307-g0ej607u27avfms878nvt2kn8l6av8mi.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQdBghrHqiqtSzNfb6uPpCQFe-V81oUbU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>715216434307</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.cherafooddiary</string>
+	<key>PROJECT_ID</key>
+	<string>chera-mobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chera-mobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:715216434307:ios:b3b98cbd0d81403f73d7b6</string>
+</dict>
+</plist>
